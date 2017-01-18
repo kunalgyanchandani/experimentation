@@ -1,9 +1,9 @@
-package com.kunal.experimentation;
+package com.coderkonnect.experimentation;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
 
-public class SampleToListsAllData {
+public class SampleDisplaysAllDataOfJson {
 
 	public static void main(String[] args) {
 
